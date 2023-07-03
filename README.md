@@ -36,8 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/saptaparneechaudhuri/space-frontend-mentor]
-- Live Site URL: [https://imaginative-unicorn-7299b2.netlify.app/]
+- Live Site URL: [[https://imaginative-unicorn-7299b2.netlify.app/](https://space-exploration-frontend-mentor.vercel.app/)]
 
 ## My process
 
